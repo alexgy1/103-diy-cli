@@ -1,5 +1,7 @@
 ## diy cli
 
+> 每执行一次 diy-cli， 就会生成一次 lib/templates 里面预定义好的内容， 快速搭建项目基础目录用
+
 ## dependiences
 
 ```js
@@ -21,3 +23,8 @@
 
 1. `git init `
 2. `echo /node_modul es > .gitignore`
+3. git add .
+4. git commit -m'message'
+5. git remote add origin git@github.com:alexgy1/103-diy-cli.git
+6. git branch -M main
+7. git push -u origin main
