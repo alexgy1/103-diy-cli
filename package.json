@@ -1,0 +1,11 @@
+{
+  "name": "diy-cli",
+  "version": "1.0.0",
+  "bin": "lib/cli.js",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "inquirer": "^8.2.4"
+  }
+}
